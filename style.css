@@ -1,0 +1,14 @@
+#countlabel {
+    display:block;
+    text-align:center;
+    font-size:10em
+}
+       #button-container {
+           text-align:center;
+       } 
+        .button {
+           color:white;
+           background-color:red;
+           font-size:1.5em;
+           border-radius:5px;
+        }
